@@ -16,8 +16,9 @@ I'm Mahmoud Elshabrway from Mansoura, Egypt. I am passionate about AI developmen
 ### GitHub Stats  
 [![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiraiyam&show_icons=true&theme=radical)](https://github.com/jiraiyam/github-readme-stats)
 
-### Visitors
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=mahmoudelshabrawy.visitors)  
+### Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahmoudelshabrawy&theme=radical)](https://github.com/mahmoudelshabrawy)
+
 
 ### Connect with Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/jiraiyam) 
