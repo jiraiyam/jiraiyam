@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, Mahmoud Elshabrway 
 #### Software developer 
 ![Software developer ](https://media.licdn.com/dms/image/v2/D4D16AQEEGm_zSU7-Rw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719768277530?e=1729123200&v=beta&t=UqssYTzS_zZkm06tJB0w1Tq4MgE5Lp9GvbLsdZdgurg)
