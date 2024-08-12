@@ -9,9 +9,10 @@ Skills: Data Science  / NLp  / LaTeX  /
 - 🔭 I’m currently working on this page. 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jiraiyam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//mahmoud-elshabrawy-5616581a7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Mshika231)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/mahmoudelshabrawy/code)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='40'>](https://www.researchgate.net/profile/Mahmoud-Mohammed-20)  
 
 
- on [Kaggle](https://www.kaggle.com/mahmoudelshabrawy/code), [ResearchGate](https://www.researchgate.net/profile/Mahmoud-Mohammed-20), or connect with me on [LinkedIn](https://www.linkedin.com/in/mahmoud-elshabrawy-5616581a7/).
+
 
 
 [![jiraiyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiraiyam)](https://github.com/jiraiyam/github-readme-stats)
