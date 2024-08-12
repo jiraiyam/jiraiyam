@@ -22,7 +22,7 @@ I'm Mahmoud Elshabrway from Mansoura, Egypt. I am passionate about AI developmen
 [![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)](https://twitter.com/Mshika231)  
 [![Kaggle](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg)](https://www.kaggle.com/mahmoudelshabrawy/code)  
 [![ResearchGate](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg)](https://www.researchgate.net/profile/Mahmoud-Mohammed-20)  
-[![WhatsApp](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg)](https://wa.me/201062463194)
+[WhatsApp](https://wa.me/201062463194)
 
 ---
 
