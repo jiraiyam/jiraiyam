@@ -17,12 +17,14 @@ I'm Mahmoud Elshabrway from Mansoura, Egypt. I am passionate about AI developmen
 [![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiraiyam&show_icons=true&theme=radical)](https://github.com/jiraiyam/github-readme-stats)
 
 ### Connect with Me
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/jiraiyam)  
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/mahmoud-elshabrawy-5616581a7/)  
-[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)](https://twitter.com/Mshika231)  
-[![Kaggle](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg)](https://www.kaggle.com/mahmoudelshabrawy/code)  
-[![ResearchGate](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg)](https://www.researchgate.net/profile/Mahmoud-Mohammed-20)  
-[![WhatsApp](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg)](https://wa.me/201062463194)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/jiraiyam) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/mahmoud-elshabrawy-5616581a7/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Twitter' height='40'>](https://twitter.com/Mshika231) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='Kaggle' height='40'>](https://www.kaggle.com/mahmoudelshabrawy/code) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='ResearchGate' height='40'>](https://www.researchgate.net/profile/Mahmoud-Mohammed-20)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='WhatsApp' height='40'>]([https://www.researchgate.net/profile/Mahmoud-Mohammed-20](https://wa.me/201062463194))
+
+
 
 ---
 
