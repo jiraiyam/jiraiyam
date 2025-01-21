@@ -3,19 +3,27 @@
 
 ![Software Developer](https://media.licdn.com/dms/image/v2/D4D16AQHLY4eL74hOBw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724620091148?e=1743033600&v=beta&t=mPaZZFm-4t3_O3fOrmuqUtnuBRueKtanINIXEG0JSQ0)
 
-I'm **Mahmoud Elshabrway** from **Mansoura, Egypt**. I am passionate about **AI development** and **data science**, dedicated to solving complex challenges with innovative solutions. With a strong background in AI research and publications, I excel in enhancing algorithms and developing predictive models that drive impactful results. My expertise in **Natural Language Processing (NLP)** enables me to create cutting-edge solutions in natural language understanding and generation.
+I'm **Mahmoud Elshabrway**, a software developer and data scientist based in **Mansoura, Egypt**. I thrive at the intersection of **artificial intelligence**, **data science**, and **creative problem-solving**, with a mission to develop impactful solutions that address real-world challenges.  
+
+I specialize in **Natural Language Processing (NLP)**, **predictive modeling**, and building scalable solutions using cutting-edge machine learning techniques. With a strong foundation in **AI research** and contributions to multiple publications, my focus is to stay at the forefront of innovation and make a meaningful impact.  
+
+When I'm not coding, you'll find me diving into research papers, exploring the latest in AI advancements, or sharing knowledge with the tech community.
 
 ---
 
-### 🌟 Skills  
-- **Data Science**  
-- **Natural Language Processing (NLP)**  
-- **LaTeX**  
+### 🌟 Highlights & Expertise  
+- **AI Research**: Authored multiple research papers in artificial intelligence and machine learning.  
+- **Software Development**: Experienced in designing and deploying robust software solutions.  
+- **Data Science**: Expertise in data wrangling, visualization, and predictive modeling.  
+- **Natural Language Processing (NLP)**: Skilled in building advanced NLP pipelines for understanding and generating text.  
+- **Tools & Technologies**: Python, TensorFlow, PyTorch, Pandas, NumPy, Scikit-learn, and LaTeX.  
 
 ---
 
-### 🔭 Current Focus  
-I'm currently working on refining this page and expanding my portfolio.
+### 🔭 Current Projects  
+- Building **NLP-driven AI assistants** for improved human-computer interactions.  
+- Developing **data engineering pipelines** for scalable machine learning applications.  
+- Expanding my open-source contributions and personal portfolio.  
 
 ---
 
@@ -24,6 +32,18 @@ I'm currently working on refining this page and expanding my portfolio.
 
 ### 🔥 Streak Stats  
 [![GitHub Streak](https://streak-stats.demolab.com?user=jiraiyam&theme=radical)](https://github.com/jiraiyam)
+
+---
+
+### 🏆 Achievements  
+- **AI Research**: Published papers addressing optimization in machine learning models and their real-world applications.  
+- **Hackathon Winner**: Recognized for innovative solutions in NLP and data-driven projects.  
+- **Community Contributor**: Actively contribute to AI and data science forums, sharing knowledge and mentorship.  
+
+---
+
+### 💡 Fun Fact  
+I love simplifying complex AI concepts into easy-to-understand lessons for beginners.  
 
 ---
 
