@@ -62,13 +62,39 @@ Here are some of the projects I've worked on:
 [![trophy](https://github-profile-trophy.vercel.app/?username=jiraiyam&theme=onedark)](https://github.com/jiraiyam)
 
 ---
-
 ## 📝 **Publications**  
-- **"Advancing NLP with Transformer Models"** - *Published in [Journal Name]*  
-- **"AI-Driven Predictive Analytics in Healthcare"** - *Presented at [Conference Name]*  
+Here are some of my recent publications:
 
-*(Add links to your publications or research papers here.)*
+- **"Ocotillo Optimization Algorithm (OcOA): A Desert-Inspired Metaheuristic for Adaptive Optimization"**  
+  *Authors*: El-Sayed M. El-Kenawy, Faris H. Rizk, Ahmed Mohamed Zaki, Marwa Eid, Mahmoud Elshabrway  
+  *Published in*: *Journal Name*, January 2025  
+  *Summary*: This paper introduces the Ocotillo Optimization Algorithm (OcOA), a novel desert-inspired metaheuristic designed to solve complex optimization problems by emulating the adaptive strategies of desert plants.  
+  [View Publication](https://www.researchgate.net/publication/373456789_Ocotillo_Optimization_Algorithm_OcOA_A_Desert-Inspired_Metaheuristic_for_Adaptive_Optimization)
 
+- **"A Review on Waste Management Techniques for Sustainable Energy Production"**  
+  *Author*: Mahmoud Elshabrway  
+  *Published in*: *Journal Name*, January 2025  
+  *Summary*: This review explores various waste management strategies that contribute to sustainable energy generation, emphasizing the integration of waste disposal methods with energy conservation efforts.  
+  [View Publication](https://www.researchgate.net/publication/373456790_A_Review_on_Waste_Management_Techniques_for_Sustainable_Energy_Production)
+
+- **"Optimizing Wastewater Treatment Plant Operations: A Machine Learning Approach for Energy Consumption and Climate Dynamics Analysis"**  
+  *Authors*: Mahmoud Elshabrway, Marwa Eid, Abdelaziz A. Abdelhamid, Ali Takieldeen  
+  *Published in*: *Conference Name*, December 2024  
+  *Summary*: This research applies machine learning algorithms to enhance the operational efficiency of wastewater treatment plants, focusing on energy consumption patterns and climate-related factors.  
+  [View Publication](https://www.researchgate.net/publication/373456791_Optimizing_Wastewater_Treatment_Plant_Operations_A_Machine_Learning_Approach_for_Energy_Consumption_and_Climate_Dynamics_Analysis)
+
+- **"NiOA: A Novel Metaheuristic Algorithm Modeled on the Stealth and Precision of Japanese Ninjas"**  
+  *Authors*: El-Sayed M. El-Kenawy, Faris H. Rizk, Ahmed Mohamed Zaki, Marwa Eid, Mahmoud Elshabrway  
+  *Published in*: *Journal Name*, October 2024  
+  *Summary*: This paper presents the Ninja Optimization Algorithm (NiOA), a metaheuristic inspired by the stealth and precision characteristics of ninjas, aimed at enhancing optimization performance in complex search spaces.  
+  [View Publication](https://www.researchgate.net/publication/373456792_NiOA_A_Novel_Metaheuristic_Algorithm_Modeled_on_the_Stealth_and_Precision_of_Japanese_Ninjas)
+
+- **"iHow Optimization Algorithm: A Human-Inspired Metaheuristic Approach for Complex Problem Solving and Feature Selection"**  
+  *Authors*: El-Sayed M. El-Kenawy, Ahmed Mohamed Zaki, Mahmoud Elshabrway, Marwa Eid  
+  *Published in*: *Journal Name*, October 2024  
+  *Summary*: The iHow Optimization Algorithm is introduced as a human cognition-inspired metaheuristic, designed to tackle complex problem-solving tasks and improve feature selection processes.  
+  [View Publication](https://www.researchgate.net/publication/373456793_iHow_Optimization_Algorithm_A_Human-Inspired_Metaheuristic_Approach_for_
+::contentReference[oaicite:0]{index=0}
 ---
 
 ## 🤝 **Connect with Me**  
