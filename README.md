@@ -69,7 +69,7 @@ Here are some of my recent publications:
   *Authors*: El-Sayed M. El-Kenawy, Faris H. Rizk, Ahmed Mohamed Zaki, Marwa Eid, Mahmoud Elshabrway  
   *Published in*: *Journal Name*, January 2025  
   *Summary*: This paper introduces the Ocotillo Optimization Algorithm (OcOA), a novel desert-inspired metaheuristic designed to solve complex optimization problems by emulating the adaptive strategies of desert plants.  
-  [View Publication](https://www.researchgate.net/publication/373456789_Ocotillo_Optimization_Algorithm_OcOA_A_Desert-Inspired_Metaheuristic_for_Adaptive_Optimization)
+  [View Publication](https://www.researchgate.net/publication/387614483_Ocotillo_Optimization_Algorithm_OcOA_A_Desert-Inspired_Metaheuristic_for_Adaptive_Optimization)
 
 - **"A Review on Waste Management Techniques for Sustainable Energy Production"**  
   *Author*: Mahmoud Elshabrway  
