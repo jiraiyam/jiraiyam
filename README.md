@@ -75,13 +75,13 @@ Here are some of my recent publications:
   *Author*: Mahmoud Elshabrway  
   *Published in*: *Journal Name*, January 2025  
   *Summary*: This review explores various waste management strategies that contribute to sustainable energy generation, emphasizing the integration of waste disposal methods with energy conservation efforts.  
-  [View Publication](https://www.researchgate.net/publication/373456790_A_Review_on_Waste_Management_Techniques_for_Sustainable_Energy_Production)
+  [View Publication](https://www.researchgate.net/publication/388207801_A_Review_on_Waste_Management_Techniques_for_Sustainable_Energy_Production)
 
 - **"Optimizing Wastewater Treatment Plant Operations: A Machine Learning Approach for Energy Consumption and Climate Dynamics Analysis"**  
   *Authors*: Mahmoud Elshabrway, Marwa Eid, Abdelaziz A. Abdelhamid, Ali Takieldeen  
   *Published in*: *Conference Name*, December 2024  
   *Summary*: This research applies machine learning algorithms to enhance the operational efficiency of wastewater treatment plants, focusing on energy consumption patterns and climate-related factors.  
-  [View Publication](https://www.researchgate.net/publication/373456791_Optimizing_Wastewater_Treatment_Plant_Operations_A_Machine_Learning_Approach_for_Energy_Consumption_and_Climate_Dynamics_Analysis)
+  [View Publication](https://www.researchgate.net/publication/387484886_Optimizing_Wastewater_Treatment_Plant_Operations_A_Machine_Learning_Approach_for_Energy_Consumption_and_Climate_Dynamics_Analysis)
 
 - **"NiOA: A Novel Metaheuristic Algorithm Modeled on the Stealth and Precision of Japanese Ninjas"**  
   *Authors*: El-Sayed M. El-Kenawy, Faris H. Rizk, Ahmed Mohamed Zaki, Marwa Eid, Mahmoud Elshabrway  
