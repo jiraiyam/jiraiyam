@@ -87,14 +87,20 @@ Here are some of my recent publications:
   *Authors*: El-Sayed M. El-Kenawy, Faris H. Rizk, Ahmed Mohamed Zaki, Marwa Eid, Mahmoud Elshabrway  
   *Published in*: *Journal Name*, October 2024  
   *Summary*: This paper presents the Ninja Optimization Algorithm (NiOA), a metaheuristic inspired by the stealth and precision characteristics of ninjas, aimed at enhancing optimization performance in complex search spaces.  
-  [View Publication](https://www.researchgate.net/publication/373456792_NiOA_A_Novel_Metaheuristic_Algorithm_Modeled_on_the_Stealth_and_Precision_of_Japanese_Ninjas)
+  [View Publication](https://www.researchgate.net/publication/385046284_NiOA_A_Novel_Metaheuristic_Algorithm_Modeled_on_the_Stealth_and_Precision_of_Japanese_Ninjas)
+
+  - **"FbOA: Football Optimization Algorithm (FbOA): A Novel Metaheuristic Inspired by Team Strategy Dynamics"**  
+  *Authors*: El-Sayed M. El-Kenawy, Nima Khodadadi, Ahmed Mohamed Zaki, Marwa Eid, Mahmoud Elshabrway  
+  *Published in*: *Journal Name*, October 2024  
+  *Summary*: The Football Optimization Algorithm (FbOA) is a novel metaheuristic inspired by football strategies to solve complex optimization problems.
+It uses tactical movements like passes and positioning to balance exploration and exploitation.
+  [View Publication](https://www.researchgate.net/publication/385046284_NiOA_A_Novel_Metaheuristic_Algorithm_Modeled_on_the_Stealth_and_Precision_of_Japanese_Ninjas)
 
 - **"iHow Optimization Algorithm: A Human-Inspired Metaheuristic Approach for Complex Problem Solving and Feature Selection"**  
   *Authors*: El-Sayed M. El-Kenawy, Ahmed Mohamed Zaki, Mahmoud Elshabrway, Marwa Eid  
   *Published in*: *Journal Name*, October 2024  
   *Summary*: The iHow Optimization Algorithm is introduced as a human cognition-inspired metaheuristic, designed to tackle complex problem-solving tasks and improve feature selection processes.  
-  [View Publication](https://www.researchgate.net/publication/373456793_iHow_Optimization_Algorithm_A_Human-Inspired_Metaheuristic_Approach_for_
-::contentReference[oaicite:0]{index=0}
+  [View Publication](https://www.researchgate.net/publication/385046631_iHow_Optimization_Algorithm_A_Human-Inspired_Metaheuristic_Approach_for_Complex_Problem_Solving_and_Feature_Selection)
 ---
 
 ## 🤝 **Connect with Me**  
