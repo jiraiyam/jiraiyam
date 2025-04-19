@@ -135,7 +135,7 @@ I'm always open to research collaborations, innovative projects, and knowledge e
 ---
 
 📫 **Contact Information**  
-- **Email**: [mahmoud.elshabrawy@researcher.com](mailto:your.email@example.com)
+- **Email**: [mahmoudelshabrawy662001@gmail.com](mailto:mahmoudelshabrawy662001@gmail.com)
 - **WhatsApp**: [+20 106 246 3194](https://wa.me/201062463194)
 - **Location**: Mansoura, Egypt
 
