@@ -1,16 +1,18 @@
-# Hi there 👋, I'm Mahmoud Elshabrway  
-### **AI Researcher | Data Scientist | Software Developer**  
+# 👋 Hi, I'm Mahmoud Elshabrway
 
-![Software Developer](https://media.licdn.com/dms/image/v2/D4D16AQHLY4eL74hOBw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724620091148?e=1743033600&v=beta&t=mPaZZFm-4t3_O3fOrmuqUtnuBRueKtanINIXEG0JSQ0)
+### **AI Researcher | Data Scientist | Software Developer**
 
-I'm a passionate **AI researcher** and **data scientist** based in **Mansoura, Egypt**. With a strong publication record in top journals, I develop innovative solutions at the intersection of **artificial intelligence** and **real-world problems**. My expertise includes designing novel metaheuristic optimization algorithms, building sophisticated NLP systems, and creating predictive models that deliver tangible impact. I specialize in advancing natural language understanding and optimization techniques to drive breakthrough results across diverse domains.
+![Software Developer](https://media.licdn.com/dms/image/v2/D4D16AQHLY4eL74hOBw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724620091148?e=174303360...)
+
+I'm an enthusiastic **AI researcher** and **data scientist** from **Mansoura, Egypt**. My work bridges artificial intelligence, machine learning, and sustainable technology, with a proven track record of publications in top-tier journals. I thrive on creating innovative solutions and collaborating globally.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=jiraiyam&color=brightgreen)](https://github.com/jiraiyam)
 [![Follow](https://img.shields.io/github/followers/jiraiyam?label=Follow&style=social)](https://github.com/jiraiyam)
 
 ---
 
-## 🧠 **Expertise**  
+## 🧠 Expertise
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -22,112 +24,110 @@ I'm a passionate **AI researcher** and **data scientist** based in **Mansoura, E
 
 ---
 
-## 🔭 **Current Focus**  
-- Developing novel metaheuristic optimization algorithms inspired by natural and human systems
-- Advancing research in NLP transformers and fine-tuning for specialized domains
-- Contributing to sustainable energy and environmental technology through AI applications
-- Collaborating on cutting-edge projects with researchers worldwide
+## 🔭 Current Focus
+
+- Designing novel metaheuristic optimization algorithms inspired by nature and human systems
+- Advancing research in NLP, especially transformer models and domain-specific fine-tuning
+- Applying AI to sustainable energy and environmental technologies
+- Collaborating on innovative projects with researchers around the world
 
 ---
 
-## 🚀 **Featured Projects**  
+## 🚀 Featured Projects
 
-### 1. **Advanced Conversational AI System**  
-- **Description**: Developed a context-aware conversational agent utilizing state-of-the-art transformer architectures with fine-tuning for domain-specific applications
-- **Tech Stack**: PyTorch, Hugging Face Transformers, BERT, GPT
-- **Impact**: Achieved 87% accuracy in domain-specific queries with 40% reduction in response latency
-- **[View Repository](https://github.com/jiraiyam/ai-chatbot)**  
+### 1.  [Chiller Energy Analysis and Forecasting](https://github.com/jiraiyam/Kaggle-projects-/blob/main/Chiller%20energy%20EDA%20and%20Forecasting%20.ipynb)
+- **Description:**Performed exploratory data analysis (EDA) and developed forecasting models to analyze and predict chiller energy consumption patterns. The project includes time series decomposition, visualization, and model building using historical energy data.
+- **Tech Stack:** Python, Pandas, Matplotlib, Statsmodels, Scikit-learn , tensorflow 
+- **Impact:** Identified energy usage trends and seasonal behaviors to support energy efficiency planning and optimization in HVAC systems.
 
-### 2. **Concrete & Career Prediction Models (with Streamlit Dashboard)**  
-- **Description**:A multi-project repository offering predictive machine learning solutions with an interactive Streamlit interface. Projects include concrete compressive strength estimation and student career success prediction. The repository features data preprocessing scripts, trained models, scalers, and a user-friendly dashboard.
-Projects Included:
-    -Concrete Strength Prediction: Estimates compressive strength based on material mix ratios using regression models.
-    -Student Career Success Prediction: Predicts future career outcomes using student academic and demographic data.
-- **Tech Stack**:  Python, Streamlit, Scikit-learn, TensorFlow, Keras
-- **Impact**:  Enabled non-technical users to interact with predictive models through a visual dashboard. Delivered accurate, production-ready .h5 and .pkl models for real-world decision-making.
+### 2. [Concrete & Career Prediction Models (Streamlit Dashboard)](https://github.com/jiraiyam/Project)
+- **Description:** A collection of predictive machine learning apps, including concrete compressive strength estimation and student career outcome prediction, with Streamlit dashboards.
+- **Tech:** Python, Streamlit, scikit-learn, TensorFlow, Keras
+- **Impact:** User-friendly dashboards for non-technical users; production-ready .h5 and .pkl models for decision-making.
 
-- **[View Repository](https://github.com/jiraiyam/Project)**
-- 
+### 3. [Temperature EDA and Forecasting with LSTM](https://github.com/jiraiyam/Kaggle-projects-/blob/main/Tenperature_EDA_and_Foresting_LSTM.ipynb)
+- **Description:** Conducted exploratory data analysis on temperature data followed by building an LSTM-based deep learning model for accurate temperature forecasting. The notebook covers data preprocessing, visualization, model training, and evaluation.
+- **Tech Stack:** Python, Pandas, Matplotlib, TensorFlow, Keras (LSTM)
+- **Impact:** Improved temperature prediction accuracy using advanced recurrent neural networks, aiding in better climate-related decision making.
+- **[View Repository](https://github.com/jiraiyam/Kaggle-projects-/blob/main/Tenperature_EDA_and_Foresting_LSTM.ipynb)**
 
-
-### 3. **Healthcare Predictive Analytics Platform**  
-- **Description**: Created an ensemble of predictive models for early disease detection using electronic health records
-- **Tech Stack**: Python, Pandas, XGBoost, LightGBM, Scikit-learn
-- **Impact**: Achieved 91% accuracy in predicting high-risk patients, now being piloted in two regional hospitals
-- **[View Repository](https://github.com/jiraiyam/healthcare-predictive-modeling)**  
-
-### 4. **Optimization Algorithm Library**
-- **Description**: Implementation of novel nature-inspired optimization algorithms (OcOA, NiOA, FbOA, iHow) published in research papers
-- **Tech Stack**: Python, NumPy, SciPy, Matplotlib
-- **Impact**: Outperformed traditional algorithms by 17-32% on benchmark optimization problems
-- **[View Repository](https://github.com/jiraiyam/metaheuristic-optimization)**
+### 4. [Optimization Algorithm Library](https://github.com/jiraiyam/metaheuristic-optimization)
+- **Description:** Implementations of new nature-inspired optimization algorithms, as published in peer-reviewed research.
+- **Tech:** Python, NumPy, SciPy, Matplotlib
+- **Impact:** Outperformed traditional algorithms by 17–32% on benchmarks.
 
 ---
 
-## 📊 **GitHub Analytics**  
+## 📊 GitHub Analytics
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jiraiyam&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiraiyam&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
-## 🔥 **Contribution Streak**  
+## 🔥 Contribution Streak
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=jiraiyam&theme=radical)](https://github.com/jiraiyam)
 
-## 📈 **Activity Graph**  
+## 📈 Activity Graph
+
 [![Mahmoud's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jiraiyam&theme=react-dark)](https://github.com/jiraiyam)
 
 ---
 
-## 🏆 **GitHub Achievements**  
+## 🏆 Achievements
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=jiraiyam&theme=onedark&column=4&margin-w=15&margin-h=15)](https://github.com/jiraiyam)
 
 ---
 
-## 📝 **Research Publications**  
-My research focuses on optimization algorithms, AI applications, and sustainable technology:
+## 📝 Recent Publications
 
-### **2025**
-- **"Ocotillo Optimization Algorithm (OcOA): A Desert-Inspired Metaheuristic for Adaptive Optimization"**  
+**My research focuses on optimization algorithms, AI applications, and sustainable technology:**
+
+### 2025
+- **Ocotillo Optimization Algorithm (OcOA): A Desert-Inspired Metaheuristic for Adaptive Optimization**  
   *El-Sayed M. El-Kenawy, Faris H. Rizk, Ahmed Mohamed Zaki, Marwa Eid, Mahmoud Elshabrway*  
   *Journal of Optimization and Engineering, Vol. 12, Issue 1*  
-  *Impact: Novel algorithm achieving 28% faster convergence on multi-dimensional optimization problems*  
-  [View Publication](https://www.researchgate.net/publication/387614483_Ocotillo_Optimization_Algorithm_OcOA_A_Desert-Inspired_Metaheuristic_for_Adaptive_Optimization)
+  *Impact: 28% faster convergence on multidimensional optimization problems*  
+  [Publication Link](https://www.researchgate.net/publication/387614483_Ocotillo_Optimization_Algorithm_OcOA_A_Desert-Inspired_Metaheuristic_for_Adaptive_Optimization)
 
-- **"A Review on Waste Management Techniques for Sustainable Energy Production"**  
+- **A Review on Waste Management Techniques for Sustainable Energy Production**  
   *Mahmoud Elshabrway*  
   *Renewable and Sustainable Energy Reviews, Vol. 43*  
-  *Impact: Comprehensive analysis of 87 waste-to-energy approaches across 6 continents*  
-  [View Publication](https://www.researchgate.net/publication/388207801_A_Review_on_Waste_Management_Techniques_for_Sustainable_Energy_Production)
+  *Impact: Analysis of 87 waste-to-energy approaches across six continents*  
+  [Publication Link](https://www.researchgate.net/publication/388207801_A_Review_on_Waste_Management_Techniques_for_Sustainable_Energy_Production)
 
-### **2024**
-- **"Optimizing Wastewater Treatment Plant Operations: A Machine Learning Approach for Energy Consumption and Climate Dynamics Analysis"**  
+### 2024
+- **Optimizing Wastewater Treatment Plant Operations: A Machine Learning Approach for Energy Consumption and Climate Dynamics Analysis**  
   *Mahmoud Elshabrway, Marwa Eid, Abdelaziz A. Abdelhamid, Ali Takieldeen*  
-  *International Conference on Environmental Data Science, December 2024*  
-  *Impact: Reduced energy consumption by 18% in pilot implementation*  
-  [View Publication](https://www.researchgate.net/publication/387484886_Optimizing_Wastewater_Treatment_Plant_Operations_A_Machine_Learning_Approach_for_Energy_Consumption_and_Climate_Dynamics_Analysis)
+  *International Conference on Environmental Data Science, Dec 2024*  
+  *Impact: 18% reduction in pilot energy consumption*  
+  [Publication Link](https://www.researchgate.net/publication/387484886_Optimizing_Wastewater_Treatment_Plant_Operations_A_Machine_Learning_Approach_for_Energy_Consumption_and_Climate_Dynamics_Analysi...)
 
-- **"NiOA: A Novel Metaheuristic Algorithm Modeled on the Stealth and Precision of Japanese Ninjas"**  
+- **NiOA: A Novel Metaheuristic Algorithm Modeled on the Stealth and Precision of Japanese Ninjas**  
   *El-Sayed M. El-Kenawy, Faris H. Rizk, Ahmed Mohamed Zaki, Marwa Eid, Mahmoud Elshabrway*  
   *IEEE Transactions on Evolutionary Computation, Vol. 28, Issue 5*  
   *Impact: Superior performance on highly constrained optimization problems*  
-  [View Publication](https://www.researchgate.net/publication/385046284_NiOA_A_Novel_Metaheuristic_Algorithm_Modeled_on_the_Stealth_and_Precision_of_Japanese_Ninjas)
+  [Publication Link](https://www.researchgate.net/publication/385046284_NiOA_A_Novel_Metaheuristic_Algorithm_Modeled_on_the_Stealth_and_Precision_of_Japanese_Ninjas)
 
-- **"Football Optimization Algorithm (FbOA): A Novel Metaheuristic Inspired by Team Strategy Dynamics"**  
+- **Football Optimization Algorithm (FbOA): A Novel Metaheuristic Inspired by Team Strategy Dynamics**  
   *El-Sayed M. El-Kenawy, Nima Khodadadi, Ahmed Mohamed Zaki, Marwa Eid, Mahmoud Elshabrway*  
   *Applied Soft Computing, Vol. 138*  
-  *Impact: Balanced exploration-exploitation dynamic for complex optimization landscapes*  
-  [View Publication](https://www.researchgate.net/publication/384913293_Football_Optimization_Algorithm_FbOA_A_Novel_Metaheuristic_Inspired_by_Team_Strategy_Dynamics)
+  *Impact: Improved exploration–exploitation for complex optimization*  
+  [Publication Link](https://www.researchgate.net/publication/384913293_Football_Optimization_Algorithm_FbOA_A_Novel_Metaheuristic_Inspired_by_Team_Strategy_Dynamics)
 
-- **"iHow Optimization Algorithm: A Human-Inspired Metaheuristic Approach for Complex Problem Solving and Feature Selection"**  
+- **iHow Optimization Algorithm: A Human-Inspired Metaheuristic Approach for Complex Problem Solving and Feature Selection**  
   *El-Sayed M. El-Kenawy, Ahmed Mohamed Zaki, Mahmoud Elshabrway, Marwa Eid*  
   *Knowledge-Based Systems, Vol. 272*  
-  *Impact: 31% improvement in feature selection efficiency for high-dimensional datasets*  
-  [View Publication](https://www.researchgate.net/publication/385046631_iHow_Optimization_Algorithm_A_Human-Inspired_Metaheuristic_Approach_for_Complex_Problem_Solving_and_Feature_Selection)
+  *Impact: 31% higher efficiency in feature selection for high-dimensional datasets*  
+  [Publication Link](https://www.researchgate.net/publication/385046631_iHow_Optimization_Algorithm_A_Human-Inspired_Metaheuristic_Approach_for_Complex_Problem_Solving_and_Feature_Selection)
 
 ---
 
-## 🌐 **Connect & Collaborate**  
-I'm always open to research collaborations, innovative projects, and knowledge exchange!
+## 🌐 Connect & Collaborate
+
+I'm always open to new collaborations, exciting projects, and knowledge exchange!
 
 <p align="center">
   <a href="https://github.com/jiraiyam"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -140,11 +140,11 @@ I'm always open to research collaborations, innovative projects, and knowledge e
 
 ---
 
-📫 **Contact Information**  
-- **Email**: [mahmoudelshabrawy662001@gmail.com](mailto:mahmoudelshabrawy662001@gmail.com)
-- **WhatsApp**: [+20 106 246 3194](https://wa.me/201062463194)
-- **Location**: Mansoura, Egypt
+**📫 Contact**
+- **Email:** [mahmoudelshabrawy662001@gmail.com](mailto:mahmoudelshabrawy662001@gmail.com)
+- **WhatsApp:** [+20 106 246 3194](https://wa.me/201062463194)
+- **Location:** Mansoura, Egypt
 
 ---
 
-### **"At the intersection of algorithms and imagination lies the future of AI. Let's build it together."** 🚀
+> **"At the intersection of algorithms and imagination lies the future of AI. Let's build it together."** 🚀
