@@ -38,11 +38,17 @@ I'm a passionate **AI researcher** and **data scientist** based in **Mansoura, E
 - **Impact**: Achieved 87% accuracy in domain-specific queries with 40% reduction in response latency
 - **[View Repository](https://github.com/jiraiyam/ai-chatbot)**  
 
-### 2. **Multi-Modal Sentiment Analysis Framework**  
-- **Description**: Built an end-to-end sentiment analysis pipeline for social media that combines text, image, and user behavior signals
-- **Tech Stack**: Python, NLTK, Scikit-learn, CNN, Transfer Learning
-- **Impact**: Improved sentiment classification accuracy by 23% compared to text-only baselines
-- **[View Repository](https://github.com/jiraiyam/sentiment-analysis)**  
+### 2. **Concrete & Career Prediction Models (with Streamlit Dashboard)**  
+- **Description**:A multi-project repository offering predictive machine learning solutions with an interactive Streamlit interface. Projects include concrete compressive strength estimation and student career success prediction. The repository features data preprocessing scripts, trained models, scalers, and a user-friendly dashboard.
+Projects Included:
+    -Concrete Strength Prediction: Estimates compressive strength based on material mix ratios using regression models.
+    -Student Career Success Prediction: Predicts future career outcomes using student academic and demographic data.
+- **Tech Stack**:  Python, Streamlit, Scikit-learn, TensorFlow, Keras
+- **Impact**:  Enabled non-technical users to interact with predictive models through a visual dashboard. Delivered accurate, production-ready .h5 and .pkl models for real-world decision-making.
+
+- **[View Repository](https://github.com/jiraiyam/Project)**
+- 
+
 
 ### 3. **Healthcare Predictive Analytics Platform**  
 - **Description**: Created an ensemble of predictive models for early disease detection using electronic health records
