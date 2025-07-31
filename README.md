@@ -2,7 +2,7 @@
 
 ### **AI Researcher | Data Scientist | Software Developer**
 
-![Software Developer](https://media.licdn.com/dms/image/v2/D4D16AQHLY4eL74hOBw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724620091148?e=174303360...)
+![Software Developer](https://media.licdn.com/dms/image/v2/D4D16AQHLY4eL74hOBw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724620091148?e=1756944000&v=beta&t=eHJ-ZhXX4rt148FqrLcsyh_4JizjjnHIjZV_pz1WwH8)
 
 I'm an enthusiastic **AI researcher** and **data scientist** from **Mansoura, Egypt**. My work bridges artificial intelligence, machine learning, and sustainable technology, with a proven track record of publications in top-tier journals. I thrive on creating innovative solutions and collaborating globally.
 
