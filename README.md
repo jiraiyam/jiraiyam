@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mahmoud Elshabrway
 ### **AI Researcher | Data Scientist | Software Developer**
 
-![Header Banner](https://media.licdn.com/dms/image/v2/D4D16AQHLY4eL74hOBw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724620091148?e=1756944000&v=beta&t=eHJ-ZhXX4rt148FqrLcsyh_4JizjjnHIjZV_pz1WwH8)
+![Header Banner](https://media.licdn.com/dms/image/v2/D4D16AQHLY4eL74hOBw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724620091148?e=1762387200&v=beta&t=9hI8Pn3sr1Wa-ynNWWrrqzAdcNxsBhESSPRvv-ykg98)
 
 I'm an AI researcher and data scientist from **Mansoura, Egypt**, specializing in machine learning, NLP, and sustainable technology solutions. With publications in top-tier journals, I create innovative AI solutions through global collaboration.
 
