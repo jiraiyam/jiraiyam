@@ -29,10 +29,7 @@ I'm an AI researcher and data scientist from **Mansoura, Egypt**, specializing i
 
 ## 🚀 Featured Projects
 
-### 🔬 Research & Algorithms
-[![Optimization Library](https://img.shields.io/badge/🔗-Optimization_Algorithm_Library-blue) ](https://github.com/jiraiyam/metaheuristic-optimization)  
-Novel nature-inspired algorithms outperforming traditional methods by 17-32%  
-`Python` `NumPy` `SciPy` `Matplotlib`
+
 
 ### 📈 Data Science Applications
 [![Chiller Energy Analysis](https://img.shields.io/badge/🔗-Chiller_Energy_Analysis-blue) ](https://github.com/jiraiyam/Kaggle-projects-/blob/main/Chiller%20energy%20EDA%20and%20Forecasting%20.ipynb)  
